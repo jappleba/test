@@ -5,6 +5,14 @@
     <link>https://example.com/feed</link>
     <description>Custom feed to test n8n RSS trigger</description>
     <lastBuildDate>Tue, 13 Jun 2023 10:00:00 GMT</lastBuildDate>
+
+    <item>
+        <title>Test Item 2</title>
+        <link>https://www.cntraveler.com/gallery/best-new-restaurants-nyc</link>
+        <guid>unique-id-003</guid>
+        <pubDate>Tue, 13 Jun 2023 08:00:00 GMT</pubDate>
+        <description>This is test item 2 description</description>
+    </item>
     
     <item>
         <title>Test Item 2</title>
